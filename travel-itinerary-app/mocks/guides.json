@@ -1,0 +1,11 @@
+[
+  {
+    "place": "Rome",
+    "lead": "Rome is Italy's capital and a center of art and history.",
+    "sections": {
+      "Do": "Visit Colosseum, Forum.",
+      "Eat": "Cacio e pepe."
+    },
+    "attribution": "Data from Wikivoyage/Wikimedia."
+  }
+]

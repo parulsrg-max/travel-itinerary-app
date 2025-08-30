@@ -1,0 +1,15 @@
+[
+  {
+    "id": "H1",
+    "name": "Boutique Roma Centro",
+    "lat": 41.901,
+    "lon": 12.495,
+    "price": 160,
+    "currency": "USD",
+    "rating": 8.9,
+    "freeCancel": true,
+    "image": "",
+    "deepLink": "https://example.com/h/H1",
+    "address": "Via Example 1, Rome"
+  }
+]

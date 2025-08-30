@@ -1,0 +1,16 @@
+{
+  "weather": [
+    {
+      "date": "2025-10-20",
+      "minC": 12,
+      "maxC": 22,
+      "summary": "Sunny"
+    }
+  ],
+  "holidays": [
+    {
+      "date": "2025-11-01",
+      "name": "All Saints' Day"
+    }
+  ]
+}

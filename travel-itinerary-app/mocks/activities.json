@@ -1,0 +1,13 @@
+[
+  {
+    "id": "V1",
+    "title": "Colosseum Skip-the-Line Tour",
+    "vendor": "viator",
+    "price": 59,
+    "currency": "USD",
+    "durationMins": 120,
+    "lat": 41.8902,
+    "lon": 12.4922,
+    "deepLink": "https://www.viator.com/checkout?activity=V1"
+  }
+]

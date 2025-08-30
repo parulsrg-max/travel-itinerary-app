@@ -1,0 +1,14 @@
+[
+  {
+    "id": "IT-1",
+    "price": 540,
+    "currency": "USD",
+    "carrier": "AZ",
+    "origin": "DEL",
+    "destination": "FCO",
+    "departAt": "2025-10-20T02:30:00Z",
+    "arriveAt": "2025-10-20T12:10:00Z",
+    "duration": "10h 40m",
+    "deepLink": "https://example.com/book/IT-1"
+  }
+]
